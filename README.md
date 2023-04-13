@@ -1,2 +1,2 @@
 # Effort_Logger
-Effort logger git hub
+So far its just dylans prototype in an folder called "effort logger"
